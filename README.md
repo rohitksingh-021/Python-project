@@ -1,5 +1,5 @@
 # Python-project
-# IMPLEMENTING A CONTACTS DIRECTORY IN {yoyo}
+# IMPLEMENTING A CONTACTS DIRECTORY IN PYTHON
 
 # importing the module
 import sys
